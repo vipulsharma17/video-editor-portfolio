@@ -110,7 +110,7 @@ portfolio = {
         "https://www.youtube.com/watch?v=4R3j2SLbuUo"
     ],
     "Short Form Content ": [
-        "https://www.youtube.com/@ThePodiumCast/shorts"
+        "https://www.youtube.com/shorts/Xfr6DXyPhAM"
     ],
 }
 
