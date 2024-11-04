@@ -111,6 +111,7 @@ portfolio = {
     ],
     "Short Form Content ": [
         "https://www.youtube.com/@ThePodiumCast/shorts"
+    ]
 }
 
 st.title("Video Editor Portfolio")
