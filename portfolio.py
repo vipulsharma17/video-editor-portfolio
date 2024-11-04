@@ -105,7 +105,6 @@ portfolio = {
         "https://www.youtube.com/watch?v=dw9PRFeOKiI"
     ],
     "Short Form Content": [
-        "https://www.youtube.com/shorts/Xfr6DXyPhAM",
         "https://www.youtube.com/watch?v=u_GQoqSXmpw",
     ],
     
