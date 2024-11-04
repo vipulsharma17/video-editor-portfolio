@@ -104,10 +104,9 @@ portfolio = {
         "https://www.youtube.com/watch?v=vNJFkG2zzKk",
         "https://www.youtube.com/watch?v=dw9PRFeOKiI"
     ],
-    "Music Cover": [
-        "https://www.youtube.com/watch?v=xmSnpyS5oj0",
+    "Short Form Content": [
+        "https://www.youtube.com/shorts/Xfr6DXyPhAM",
         "https://www.youtube.com/watch?v=u_GQoqSXmpw",
-        "https://www.youtube.com/watch?v=4R3j2SLbuUo"
     ],
     
 }
